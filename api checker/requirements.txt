@@ -1,0 +1,7 @@
+requests
+argparse
+termcolor
+flask
+boto3
+fpdf
+datetime
